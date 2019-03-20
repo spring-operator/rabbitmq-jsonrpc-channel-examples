@@ -1,7 +1,7 @@
 /*
 	Base, version 1.0.1
 	Copyright 2006, Dean Edwards
-	License: http://creativecommons.org/licenses/LGPL/2.1/
+	License: https://creativecommons.org/licenses/LGPL/2.1/
 */
 function Base() {
 };
@@ -94,7 +94,7 @@ Base.extend = function(_instance, _static) {
  *  (c) 2005 Sam Stephenson <sam@conio.net>
  *
  *  Prototype is freely distributable under the terms of an MIT-style license.
- *  For details, see the Prototype web site: http://prototype.conio.net/
+ *  For details, see the Prototype web site: https://prototype.conio.net/
  *
 /*--------------------------------------------------------------------------*/
 Function.prototype.bindAsEventListener = function(object) {
